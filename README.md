@@ -25,7 +25,7 @@ Things you need to install the software and how to install them
 6. Go to Tools > Import
 7. Run the Custom CSV Importer
 8. Upload your CSV file
-9. Boila! Your data has been imported! :)
+9. Ka-Chow! Your data has been imported! :)
 
 ### NOTE!!!!!
 
