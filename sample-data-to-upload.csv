@@ -1,0 +1,3 @@
+o_post_author,o_post_status,o_post_parent,o_post_type,o_pm_order_currency,o_pm_order_total,o_pm_billing_first_name,o_pm_shipping_first_name,v_post_author,v_post_title,v_post_status,v_post_parent,v_post_type,v_pm_recipient_name,v_pm_purchaser_name,v_pm_remaining_value,v_pm_product_quantity,v_pm_product_price,v_pm_voucher_currency,v_pm_voucher_type,v_pm_thumbnail_id,v_pm_order_item_id,v_pm_product_id
+1,wc-completed,0,shop_order,PHP,50,2008,2008,1,2005,wcpdf-pending,1266,wc_voucher,claire tomison,claire tomison,50,1,50,PHP,multi,1260,680,1245
+1,wc-completed,0,shop_order,PHP,100,2009,2009,1,2006,wcpdf-pending,1266,wc_voucher,john doe,john doe,100,1,100,PHP,multi,1260,680,1245
